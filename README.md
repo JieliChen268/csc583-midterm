@@ -52,5 +52,5 @@ Open http://localhost:3000 in any web browser.
 
 
 ### MileStone
-
+![alt text](https://github.com/JieliChen268/csc583-midterm/blob/master/images-milestone.PNG)
 
